@@ -10,14 +10,7 @@ int main()
     std::cout << "Last years sales were $ " <<year_2018 << std::endl;
 
     //gives the amount of the predicted sales
-    std::cout << "The year 2020 is estimated to be: $ "<<year_2019;
+    std::cout << "This years sales prediction: $ "<<year_2019;
     return 0;
-
-
-
-
-
-
-
 
   }
